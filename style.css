@@ -1,0 +1,92 @@
+   h1 {
+       font-family: Tahoma, sans-serif;
+   }
+
+   p {
+       font-family: Verdana, sans-serif;
+   }
+
+   body {
+       background-color: rgb(206, 180, 204)
+   }
+
+   p {
+       font-size: 18px;
+       font-family: Impact, sans-serif;
+       text-align: justify;
+   }
+
+   strong {
+       color: navy;
+   }
+
+   .js {
+       font-size: 22px;
+   }
+
+   .bpc {
+       font-size: 20px
+   }
+
+   .bcpa {
+       font-size: 18px;
+   }
+
+   .html {
+       font-size: 17;
+   }
+
+   .css {
+       font-size: 16;
+   }
+
+   .cs {
+       font-size: 15;
+   }
+
+   .vs {
+       font-size: 14;
+   }
+
+   .win {
+       font-size: 13;
+   }
+
+   .css {
+       font-size: 12;
+   }
+
+   #minhaFoto
+   {
+       padding: 20px 20px 20px 20px;
+       float: left;
+       height: 350px;
+       width: 350px;
+       background-color: rgb(212, 127, 193);
+    }
+    div.foto-desc{
+        height: 350px;
+    }
+    #sobre{
+        position: absolute;
+        top: 115px;
+        left: 400px;
+    }
+    .nome{
+        position: relative;
+        left: 50%;
+    }
+    h3{
+        position: absolute;
+        top: 500px;
+    }
+    ul{
+        position: absolute;
+        top: 550px;
+    }
+    .foto-link{
+        position: absolute;
+        left: 10px;
+        top: 770px;
+    }
+   
